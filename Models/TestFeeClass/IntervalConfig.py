@@ -1,0 +1,2 @@
+train_timeinterval=180
+test_timeinterval=60
